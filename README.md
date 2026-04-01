@@ -1,4 +1,4 @@
-Hi, I'm # Sushma Vem 👋
+# Hi, I'm Sushma Vem 👋
 ## 🚀 About Me
 MS Computer Science student at Auburn University Montgomery, graduating May 2026. I work mostly in ML and data engineering — building pipelines, training models, and occasionally going too deep into hyperspectral imaging research.
 
