@@ -1,48 +1,27 @@
 Hi, I'm Sushma Vem 👋
-ML Engineer · Data Engineer · MS Computer Science @ Auburn University Montgomery
-I'm a graduate student and ML practitioner focused on building scalable data pipelines, applied AI systems, and cloud-native infrastructure. My work sits at the intersection of machine learning, signal processing, and backend engineering.
+MS Computer Science student at Auburn University Montgomery, graduating May 2026. I work mostly in ML and data engineering — building pipelines, training models, and occasionally going too deep into hyperspectral imaging research at 11pm.
 
-🔬 What I'm Working On
+Currently looking for full-time roles or Summer 2026 internships in ML Engineering or Data Engineering.
 
-**HSI Research **— Combining physics-based modeling with neural networks for hyperspectral image analysis and atmospheric data compression. Presented at the 2026 AUM Student Research Symposium.
-**ML Pipelines** — End-to-end training and deployment workflows on GCP using Vertex AI, Cloud Run, and Dataflow.
-**Job Tracker App** — Full-stack application (Node.js + MongoDB) for tracking job applications with real-time dashboards.
+Things I've built / worked on
+Hyperspectral Imaging Research Compression pipeline for 462-band atmospheric data using Gaussian filters + neural networks. The goal is making large-scale HSI analysis actually tractable computationally. Presented this at the AUM 2026 Student Research Symposium — first time presenting research, genuinely nerve-wracking.
 
+Lung Cancer Detection CNN in PyTorch trained on medical imaging data. Hit 97% validation accuracy after spending way too long on the augmentation strategy to fix class imbalance. Classic.
 
-**🛠️ Tech Stack
-**Languages
-Python SQL C++ JavaScript Bash/Shell R Java
-ML & AI
-PyTorch TensorFlow Scikit-learn OpenCV Vertex AI LLM Fine-tuning Prompt Engineering
-Cloud & Infrastructure
-GCP Cloud Run Cloud SQL Dataflow BigQuery Linux/Unix Docker
-Tools
-Git Power BI Tableau Postman Agile/Scrum
+Smart Job Tracker Built this out of frustration with spreadsheets. Node.js + MongoDB backend, RESTful APIs, dashboard that shows where each application actually stands. Still use it.
 
-**📌 Featured Projects**
-🔭 Hyperspectral Imaging (HSI) Pipeline
-Dimensionality reduction pipeline using Gaussian Filters to compress 462 spectral bands for atmospheric analysis. Applied neural networks for compact spectral representations.
+Background
+Before grad school I spent about a year at Kyndryl (post-IBM spinoff) as an associate developer — infrastructure work for enterprise clients including American Airlines and Walgreens. 99% uptime SLAs, shell scripting, production system monitoring. Not glamorous, but I learned how things actually break at scale.
 
-Presented at Auburn University 2026 Student Research Symposium
+Before that, a 6-month ML internship at SAIFE Technologies in Georgia where I built end-to-end training pipelines in PyTorch on GCP.
 
-🫁 Lung Cancer Detection CNN
-Convolutional Neural Network in PyTorch achieving 97% validation accuracy on medical imaging datasets. Includes data augmentation strategies to handle class imbalance.
-📋 Smart Job Tracker
-Full-stack web app with RESTful APIs, JWT authentication, and a responsive dashboard visualizing application pipeline stages in real time.
+Engineering undergrad at Osmania University, Hyderabad (2019–2023).
 
-💼 Experience Highlights
-RoleCompanyPeriodML Engineer InternSAIFE Technologies, GeorgiaOct–Dec 2025Associate DeveloperIBM-Kyndryl, IndiaJun 2023–Jul 2024Development InternIBM, IndiaJan–Jun 2023
-Key wins: 35% reduction in data latency, 99% uptime on enterprise infrastructure, 40% reduction in manual ops effort via automation.
+Stack
+Day-to-day: Python PyTorch SQL GCP Linux
 
-🎓 Education
-MS, Computer Science — Auburn University Montgomery (Aug 2024 – May 2026)
-Coursework: Machine Learning · Data Structures & Algorithms · System Design
-BE, Computer Engineering — Osmania University (Aug 2019 – Jun 2023)
-Coursework: AI · Database Management · Software Engineering
+Also comfortable with: TensorFlow Scikit-learn Vertex AI Bash JavaScript C++ OpenCV Docker Tableau
 
-📫 Connect
-Linkedin : https://www.linkedin.com/in/sushmavem/?skipRedirect=true
-Email : svem@aum.edu
+Links
+LinkedIn · Email · Montgomery, AL
 
-
-🎯 Open to: Summer 2026 internships and full-time roles in ML Engineering, Data Engineering, and Backend Systems.
