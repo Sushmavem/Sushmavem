@@ -1,12 +1,12 @@
 Hi, I'm Sushma Vem 👋
-MS Computer Science student at Auburn University Montgomery, graduating May 2026. I work mostly in ML and data engineering — building pipelines, training models, and occasionally going too deep into hyperspectral imaging research at 11pm.
+MS Computer Science student at Auburn University Montgomery, graduating May 2026. I work mostly in ML and data engineering — building pipelines, training models, and occasionally going too deep into hyperspectral imaging research.
 
 Currently looking for full-time roles or Summer 2026 internships in ML Engineering or Data Engineering.
 
 Things I've built / worked on
 Hyperspectral Imaging Research Compression pipeline for 462-band atmospheric data using Gaussian filters + neural networks. The goal is making large-scale HSI analysis actually tractable computationally. Presented this at the AUM 2026 Student Research Symposium — first time presenting research, genuinely nerve-wracking.
 
-Lung Cancer Detection CNN in PyTorch trained on medical imaging data. Hit 97% validation accuracy after spending way too long on the augmentation strategy to fix class imbalance. Classic.
+Lung Cancer Detection CNN in PyTorch trained on medical imaging data. Hit 97% validation accuracy after spending way too long on the augmentation strategy to fix class imbalance.
 
 Smart Job Tracker Built this out of frustration with spreadsheets. Node.js + MongoDB backend, RESTful APIs, dashboard that shows where each application actually stands. Still use it.
 
