@@ -22,11 +22,6 @@ Engineering undergrad at Osmania University, Hyderabad (2019–2023).
 **Technical Skills**: Python (Advanced), C++, SQL (PostgreSQL, MySQL), Bash/Shell Scripting, HTML, CSS, Java Script, R, AssemblyLanguage 
 **AI & Machine Learning**: PyTorch, TensorFlow, Scikit-Learn, Vertex AI, Generative AI, Prompt Engineering, LLM Fine-tuning, Deep Learning (CNN), OpenCV, Dataflow 
 **Cloud & Infrastructure:** Google Cloud Platform (GCP), Cloud Run, Cloud SQL, Vertex AI Studio, Linux/Unix Administration, Infrastructure Automation, System Performance Optimization Tools & Frameworks: Git/GitHub, Confluence, Power BI, Tableau, Postman, Agile/Scrum Methodologies, VS Code, Google Skills Boost
-
-##Stack
-Day-to-day: Python PyTorch SQL GCP Linux
-Also comfortable with: TensorFlow Scikit-learn Vertex AI Bash JavaScript C++ OpenCV Docker Tableau
-
 ## Links
 LinkedIn · Email · Montgomery, AL
 
