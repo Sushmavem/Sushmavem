@@ -12,9 +12,10 @@ Lung Cancer Detection CNN in PyTorch trained on medical imaging data. Hit 97% va
 Smart Job Tracker Built this out of frustration with spreadsheets. Node.js + MongoDB backend, RESTful APIs, dashboard that shows where each application actually stands. Still use it.
 
 ## Background
-Before grad school I spent about a year at Kyndryl (post-IBM spinoff) as an associate developer — infrastructure work for enterprise clients including American Airlines and Walgreens. 99% uptime SLAs, shell scripting, production system monitoring. Not glamorous, but I learned how things actually break at scale.
 
-Before that, a 6-month ML internship at SAIFE Technologies in Georgia where I built end-to-end training pipelines in PyTorch on GCP.
+when i am in grad school, a 6-month ML internship at SAIFE Technologies in Georgia where I built end-to-end training pipelines in PyTorch on GCP.
+
+Before grad school I spent about a year at Kyndryl (post-IBM spinoff) as an associate developer — infrastructure work for enterprise clients including American Airlines and Walgreens. 99% uptime SLAs, shell scripting, production system monitoring. Not glamorous, but I learned how things actually break at scale.
 
 Engineering undergrad at Osmania University, Hyderabad (2019–2023).
 
